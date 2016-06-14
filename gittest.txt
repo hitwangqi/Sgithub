@@ -1,3 +1,4 @@
 Git is a distributed version control
 Git is a free software, Thanks for GPL
 Git has a place named "stage"
+Git changes
